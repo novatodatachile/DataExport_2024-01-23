@@ -1,0 +1,92 @@
+{
+    "help": "Estás usando la versión beta de la herramienta de exportación de datos. Lamentablemente, esta versión no permite mostrar los datos de esta sección de una forma más amigable para el usuario. Esto será posible en próximas actualizaciones de Telegram Desktop.",
+    "email_about": "",
+    "about_meta": "Podemos recolectar datos como tu dirección IP, historial del nombre de usuario y cambios de número de teléfono para prevenir el spam, abuso y otras violaciones de nuestros términos de servicio. Si son recolectados, estos datos pueden ser conservados por hasta 12 meses como máximo.",
+    "changes_log": [
+        {
+            "event": "password_change",
+            "timestamp": 1705760185,
+            "app_id": 2040,
+            "ip": "191.125.151.120",
+            "email": "",
+            "new_email": "entremakinas2022@gmail.com",
+            "hint": ""
+        }
+    ],
+    "ips": [
+        {
+            "ip": "191.125.24.231"
+        },
+        {
+            "ip": "191.125.191.168"
+        },
+        {
+            "ip": "191.125.134.238"
+        },
+        {
+            "ip": "191.126.63.228"
+        },
+        {
+            "ip": "191.125.145.108"
+        },
+        {
+            "ip": "191.125.145.108"
+        },
+        {
+            "ip": "191.126.24.150"
+        },
+        {
+            "ip": "190.160.220.109"
+        },
+        {
+            "ip": "191.126.14.194"
+        },
+        {
+            "ip": "186.175.0.121"
+        },
+        {
+            "ip": "191.126.45.136"
+        },
+        {
+            "ip": "191.126.45.136"
+        },
+        {
+            "ip": "191.125.151.120"
+        },
+        {
+            "ip": "186.174.35.222"
+        },
+        {
+            "ip": "186.174.35.222"
+        },
+        {
+            "ip": "186.175.98.9"
+        },
+        {
+            "ip": "186.175.98.9"
+        },
+        {
+            "ip": "191.126.154.78"
+        },
+        {
+            "ip": "186.172.123.103"
+        },
+        {
+            "ip": "191.125.24.231"
+        },
+        {
+            "ip": "191.125.191.168"
+        },
+        {
+            "ip": "191.125.134.238"
+        },
+        {
+            "ip": "191.126.63.228"
+        }
+    ],
+    "installed_stickers": [
+        {
+            "url": "https:\/\/t.me\/addstickers\/HotCherry"
+        }
+    ]
+}
